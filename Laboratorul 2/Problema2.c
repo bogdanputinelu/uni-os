@@ -4,7 +4,7 @@
 int count_occurrences(const char* text, const char* word);
 int main(){
 	char *word="salut";
-	char *text="Un salut a fost Salut in timp ce saluta salutul salut bines ceau servus";
+	char *text="Un salut a fost Salut in timp ce saluta salutul salut apa ceai servieta";
 	printf("%d",count_occurrences(text,word));
 	return 0;
 }
