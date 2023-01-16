@@ -1,1 +1,1 @@
-# Sisteme de Operare
+# Operating Systems
